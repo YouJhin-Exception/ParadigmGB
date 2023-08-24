@@ -25,6 +25,6 @@ public class Tsk3 {
 
     public static void main(String[] args) {
         System.out.println("Факториал числа 5 в методе #1 = "+factorial(BigInteger.valueOf(5)));
-        System.out.println("Факториал числа 6 в методе #2 = "+calculateFactorial(5));
+        System.out.println("Факториал числа 6 в методе #2 = "+calculateFactorial(6));
     }
 }
